@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="630" viewBox="0 0 1200 630" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#60A5FA;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#gradient)"/>
-  <text x="600" y="280" font-family="Arial" font-size="48" fill="white" text-anchor="middle" dominant-baseline="middle">Mini-Jeux</text>
-  <text x="600" y="350" font-family="Arial" font-size="24" fill="white" text-anchor="middle" dominant-baseline="middle">JavaScript - HTML - CSS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <defs>
+        <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#60A5FA;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <path d="M6.13 11.67a5.5 5.5 0 0 0 11.74 0" stroke="url(#grad3)"/>
+    <path d="M12 12H6.5a2.5 2.5 0 0 0-2.5 2.5V17a2.5 2.5 0 0 0 2.5 2.5h11A2.5 2.5 0 0 0 20 17v-2.5a2.5 2.5 0 0 0-2.5-2.5H12Z" stroke="url(#grad3)"/>
+    <path d="M8 16v-4m-2 2h4" stroke="white"/>
+    <circle cx="15" cy="16" r="1" fill="white" stroke="white"/>
 </svg>

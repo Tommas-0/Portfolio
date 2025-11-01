@@ -19,7 +19,7 @@ export const portfolioData = {
       description: "Dashboard interactif pour la visualisation de données, avec graphiques temps réel et analyses personnalisables.",
       tech: ["React", "Node.js", "Symfony", "Composer"],
       imageUrl: "/dashboard.svg",
-      githubLink: "#",
+      githubLink: "https://github.com/Tommas-0/Dashboard",
       liveLink: "#",
       colors: { from: '#F97316', to: '#FB923C' }
     },
@@ -30,7 +30,6 @@ export const portfolioData = {
       tech: ["PHP", "MySQL", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
       imageUrl: "/ecommerce.svg",
       githubLink: "https://github.com/Tommas-0/E-commerce",
-      liveLink: "https://curci.alwaysdata.net/E-commerce/index.php",
       colors: { from: '#FBBF24', to: '#FCD34D' }
     },
     {
@@ -40,7 +39,7 @@ export const portfolioData = {
       tech: ["JavaScript", "HTML5", "CSS3"],
       imageUrl: "/mini-jeux.svg",
       githubLink: "https://github.com/Tommas-0/Site-de-mini-jeux-",
-      liveLink: "#",
+      liveLink: "/mini-jeux/index.html",
       colors: { from: '#3B82F6', to: '#60A5FA' }
     }
   ],

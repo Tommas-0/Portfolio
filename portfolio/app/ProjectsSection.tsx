@@ -86,7 +86,7 @@ const ProjectsSection = ({ projects }: ProjectsSectionProps) => (
                     alt={project.name} 
                     width={600} 
                     height={600} 
-                    className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
+                    className="w-full h-full object-contain transition-transform duration-700 group-hover:scale-110" 
                     priority={index < 3} 
                   />
                   
