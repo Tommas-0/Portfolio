@@ -15,9 +15,9 @@ export const portfolioData = {
   projects: [
     {
       id: 1,
-      name: "Dashboard Analytics",
-      description: "Dashboard interactif pour la visualisation de données, avec graphiques temps réel et analyses personnalisables.",
-      tech: ["React", "Node.js", "Symfony", "Composer"],
+      name: "JobBoard",
+      description: "Site d'emploi",
+      tech: ["Node.js", "NexJs"],
       imageUrl: "/dashboard.svg",
       githubLink: "https://github.com/Tommas-0/Dashboard",
       liveLink: "#",
@@ -58,7 +58,6 @@ export const portfolioData = {
       "PHP",
       "Symfony",
       "Node.js",
-      "Express",
       "Java",
       "Python",
       "C#",
@@ -128,4 +127,5 @@ export const portfolioData = {
       link: "/pix2025.png"
     }
   ]
+
 };
