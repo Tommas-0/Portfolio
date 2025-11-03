@@ -9,12 +9,7 @@ Bienvenue sur le dépôt de mon portfolio personnel. Ce projet a été conçu po
 
 ---
 
-## 🚀 Aperçu du Projet
-
-![Aperçu du projet](https://via.placeholder.com/800x450.png?text=Aperçu+de+votre+Portfolio)
-Remplacez cette image par une capture d'écran de votre portfolio.
-
-### ✨ [Voir le site en direct](https://votre-lien-vers-le-site.com)
+### ✨ [Voir le site en direct]([https://votre-lien-vers-le-site.com](https://portfolio-two-navy-25.vercel.app))
 
 ---
 
@@ -92,4 +87,5 @@ Le site sera accessible à l'adresse `http://localhost:3000`.
 N'hésitez pas à me contacter pour toute collaboration ou opportunité.
 
 -   Email : tommas.curci@epitech.eu
+
 -   LinkedIn : Tommas Curci
