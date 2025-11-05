@@ -49,7 +49,6 @@ export const portfolioData = {
       tech: ["Unity", "C#"],
       imageUrl: "/roll-the-ball.svg",
       githubLink: "https://github.com/Tommas-0/RollABall-Game",
-      liveLink: "/roll-the-ball/index.html",
       colors: { from: '#84CC16', to: '#A3E635' }
     }
   ],
