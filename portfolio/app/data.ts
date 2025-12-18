@@ -50,6 +50,33 @@ export const portfolioData = {
       imageUrl: "/roll-the-ball.svg",
       githubLink: "https://github.com/Tommas-0/RollABall-Game",
       colors: { from: '#84CC16', to: '#A3E635' }
+    },
+    {
+      id: 5,
+      name: "DevOps Poll App",
+      description: "Application de sondage multi-services utilisant Docker, Python/Flask, Redis, Java et Node.js/Express.",
+      tech: ["Docker", "Python", "Flask", "Java", "Node.js"],
+      imageUrl: "/T-DOP-501.svg",
+      githubLink: "https://github.com/Tommas-0/Docker-Voting-App",
+      colors: { from: '#EF4444', to: '#F87171' }
+    },
+    {
+      id: 6,
+      name: "Jenkins CI/CD",
+      description: "Configuration d'un serveur Jenkins avec Docker et Groovy pour l'intégration et le déploiement continus.",
+      tech: ["Docker", "Jenkins"],
+      imageUrl: "/T-DOP-502.svg",
+      githubLink: "https://github.com/Tommas-0/Jenkins-Infrastructure-As-Code",
+      colors: { from: '#10B981', to: '#34D399' }
+    },
+    {
+      id: 7,
+      name: "Java Project",
+      description: "Projet universitaire développé en Java.",
+      tech: ["Java"],
+      imageUrl: "/T-JAV-501.svg",
+      githubLink: "https://github.com/Tommas-0/EpitChess",
+      colors: { from: '#6366F1', to: '#818CF8' }
     }
   ],
 
@@ -71,6 +98,13 @@ export const portfolioData = {
       "Python",
       "C#",
       "MySQL",
+      "Flask",
+      "Express.js",
+      "Redis",
+      "PostgreSQL",
+      "WebSockets",
+      "Microservices",
+      "JavaFX"
     ],
     tools: [
       "Git",
@@ -80,7 +114,10 @@ export const portfolioData = {
       "Docker",
       "Figma",
       "Suite Office",
-      "Méthodes Agiles"
+      "Méthodes Agiles",
+      "Jenkins",
+      "Groovy",
+      "Infrastructure as Code (IaC)"
     ]
   },
 
